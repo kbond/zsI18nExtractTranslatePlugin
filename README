@@ -8,6 +8,9 @@ Google's translation API doesn't always give proper grammar and messes up symbol
 
 This task works with both **XLIFF** and **gettext** catalog stores.  I have not tried any others.
 
+###Requirements:
+php_curl extension
+
 ##How to Use
 
 Install the plugin.
